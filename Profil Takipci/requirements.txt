@@ -1,0 +1,7 @@
+capmonster-python
+colorama
+requests
+pystyle
+simplejson
+rich
+slowprint
