@@ -19,9 +19,14 @@
 
 --------------------------------------
 
-### Sharing Information
+### Usage
 
-*The tool will be shared at `20` stars
+- Download [ZIP](https://github.com/axelancexld/Spotify-Tool/archive/refs/heads/main.zip)
+- Open Folder
+- Start `modul download.bat`
+- Then Start `run.bat`
 
+- You Need License key to use this tool. You can get License code at this <a href="https://discord.gg/follower">server</a> 
+- Don't Forget to give `STAR`
 --------------------------------------
 
