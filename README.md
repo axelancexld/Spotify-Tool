@@ -30,3 +30,6 @@
 - Don't Forget to give `STAR`
 --------------------------------------
 
+- 20 Star = Random username
+- 30 Star = Custom username
+- 45 Star = Full SRC
