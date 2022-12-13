@@ -4,7 +4,7 @@
   # Proxy/Proxyless Spotify User, Artist, Playlist Follow Tool
   
 <h1>
-🌟 Join Discord Server to get License code <a href="https://discord.gg/follower">here</a> 🌟
+🌟 Join Discord Server to get License code <a href="https://discord.gg/xld">here</a> 🌟
 </h1>
 <br><br>  
  
@@ -26,7 +26,7 @@
 - Start `modul download.bat`
 - Then Start `run.bat`
 
-- You Need License key to use this tool. You can get License code at this <a href="https://discord.gg/follower">server</a> 
+- You Need License key to use this tool. You can get License code at this <a href="https://discord.gg/xld">server</a> 
 - Don't Forget to give `STAR`
 --------------------------------------
 
